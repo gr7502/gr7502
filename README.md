@@ -50,35 +50,16 @@ Esse recorte representa bem o tipo de trabalho com o qual mais me identifico: pr
 - Interfaces mais objetivas, com melhor comunicação de valor e menos atrito para o usuário.
 - Integração entre backend e frontend para manter produtos mais consistentes, utilizáveis e sustentáveis no tempo.
 
-## Projetos em destaque
-
-### [`Central-de-chamadas`](https://github.com/gr7502/painel2)
-
-Sistema web em `PHP + CodeIgniter` com estrutura ligada a painel de atendimento e fluxo operacional. O projeto mostra trabalho com controllers, models, rotas específicas, chamadas, senhas, pacientes e organização de regras de negócio para uso prático.
-
-### [`lp-gees`](https://github.com/gr7502/lp-gees)
-
-Projeto em `React 19 + TypeScript + Vite` voltado à apresentação comercial de uma healthtech. O destaque aqui está na construção de interface, narrativa de produto, experiência de navegação e CTAs orientados à conversão.
-
-<p align="left">
-  <a href="https://github.com/gr7502/painel2">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=gr7502&repo=painel2&theme=github_dark_dimmed&hide_border=true" />
-  </a>
-  <a href="https://github.com/gr7502/lp-gees">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=gr7502&repo=lp-gees&theme=github_dark_dimmed&hide_border=true" />
-  </a>
-</p>
-
 ## Estatísticas do GitHub
 
 <p align="left">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=gr7502&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&theme=github_dark_dimmed&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=gr7502&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     height="165"
   />
   &nbsp;&nbsp;&nbsp;
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gr7502&layout=compact&theme=tokyonight&locale=pt-br&theme=github_dark_dimmed&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gr7502&layout=compact&theme=tokyonight&locale=pt-br"
     height="165"
   />
 </p>
