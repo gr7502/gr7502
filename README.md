@@ -21,7 +21,7 @@ Atuo com desenvolvimento web olhando além da tela: fluxo, regra de negócio, ex
 
 Nos repositórios públicos que estão no perfil hoje, isso aparece em dois cenários bem diferentes e complementares:
 
-- `painel2`: uma base de sistema em `PHP + CodeIgniter` com rotinas ligadas a painel de atendimento, senhas, pacientes, chamadas e endpoints JSON para operação.
+- `Central de chamadas`: uma base de sistema em `PHP + CodeIgniter` com rotinas ligadas a painel de atendimento, senhas, pacientes, chamadas e endpoints JSON para operação.
 - `lp-gees`: uma landing page em `React + TypeScript + Vite`, estruturada para comunicação comercial, experiência de navegação e conversão.
 
 Esse recorte representa bem o tipo de trabalho com o qual mais me identifico: produtos web que conectam interface, processo e necessidade real de negócio.
