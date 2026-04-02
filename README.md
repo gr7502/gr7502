@@ -62,10 +62,10 @@ Projeto em `React 19 + TypeScript + Vite` voltado à apresentação comercial de
 
 <p align="left">
   <a href="https://github.com/gr7502/painel2">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=gr7502&repo=painel2&theme=github_dark_dimmed&hide_border=true" alt="painel2" />
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=gr7502&repo=painel2&theme=github_dark_dimmed&hide_border=true" />
   </a>
   <a href="https://github.com/gr7502/lp-gees">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=gr7502&repo=lp-gees&theme=github_dark_dimmed&hide_border=true" alt="lp-gees" />
+    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=gr7502&repo=lp-gees&theme=github_dark_dimmed&hide_border=true" />
   </a>
 </p>
 
