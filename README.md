@@ -29,6 +29,7 @@ Esse recorte representa bem o tipo de trabalho com o qual mais me identifico: pr
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="34" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="34" alt="CodeIgniter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="34" alt="Laravel"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="34" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34" alt="React" />
@@ -51,7 +52,7 @@ Esse recorte representa bem o tipo de trabalho com o qual mais me identifico: pr
 
 ## Projetos em destaque
 
-### [`painel2`](https://github.com/gr7502/painel2)
+### [`Central-de-chamadas`](https://github.com/gr7502/painel2)
 
 Sistema web em `PHP + CodeIgniter` com estrutura ligada a painel de atendimento e fluxo operacional. O projeto mostra trabalho com controllers, models, rotas específicas, chamadas, senhas, pacientes e organização de regras de negócio para uso prático.
 
@@ -68,11 +69,18 @@ Projeto em `React 19 + TypeScript + Vite` voltado à apresentação comercial de
   </a>
 </p>
 
-## Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gr7502&show_icons=true&include_all_commits=true&rank_icon=github&locale=pt-br&theme=github_dark_dimmed&hide_border=true" alt="GitHub stats de Guilherme Rodrigues" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gr7502&layout=compact&locale=pt-br&theme=github_dark_dimmed&hide_border=true" alt="Top linguagens de Guilherme Rodrigues" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=gr7502&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&locale=pt-br&theme=github_dark_dimmed&hide_border=true"
+    height="165"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gr7502&layout=compact&locale=pt-br&theme=github_dark_dimmed&hide_border=true"
+    height="165"
+  />
 </p>
 
 ## Contato
@@ -85,6 +93,4 @@ Projeto em `React 19 + TypeScript + Vite` voltado à apresentação comercial de
 
 Estou aberto a oportunidades, projetos sob demanda e parcerias em desenvolvimento web. Se você procura alguém para evoluir produto, organizar fluxo e transformar necessidade de negócio em software funcional, este perfil é um bom ponto de partida.
 
-## Fechamento
 
-Meu interesse está em construir software útil, com boa leitura técnica e aderência ao que a operação realmente precisa. Se o desafio envolve sistema web, interface, manutenção ou evolução de produto, vale a conexão.
