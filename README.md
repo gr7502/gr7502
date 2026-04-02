@@ -45,8 +45,8 @@ Esse recorte representa bem o tipo de trabalho com o qual mais me identifico: pr
           
 </p>
 
-- `Backend`: PHP, CodeIgniter, endpoints JSON, regras de negócio e manutenção de fluxos operacionais.
-- `Frontend`: React, TypeScript, Vite, JavaScript, HTML e CSS aplicados a interfaces mais claras e funcionais.
+- `Backend`: PHP, CodeIgniter, Laravel, endpoints JSON, regras de negócio e manutenção de fluxos operacionais.
+- `Frontend`: React, TypeScript, Vite, Next, JavaScript, HTML e CSS aplicados a interfaces mais claras e funcionais.
 - `Trabalho técnico`: evolução de sistemas, melhoria de interface, organização de fluxo, integração entre camadas e ajustes orientados à operação.
 
 ## Foco atual
