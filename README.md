@@ -69,16 +69,16 @@ Projeto em `React 19 + TypeScript + Vite` voltado à apresentação comercial de
   </a>
 </p>
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=gr7502&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&locale=pt-br&theme=github_dark_dimmed&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=gr7502&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&theme=github_dark_dimmed&hide_border=true"
     height="165"
   />
   &nbsp;&nbsp;&nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gr7502&layout=compact&locale=pt-br&theme=github_dark_dimmed&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gr7502&layout=compact&theme=tokyonight&locale=pt-br&theme=github_dark_dimmed&hide_border=true"
     height="165"
   />
 </p>
